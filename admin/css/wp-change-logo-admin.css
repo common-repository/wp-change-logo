@@ -1,0 +1,65 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .wcl-container{
+	width: 90%;
+	background: #fff;
+	float: left;
+	margin: 25px 0px;
+	border: 1px solid #e4e0e0;
+ }
+ .wcl-container h2{
+ 	background: #0073aa;
+    margin: 0px;
+    padding: 20px;
+    color: #fff;
+ }
+ .wcl-controll{
+	width: 100%;
+	float: left;
+	border-bottom: 1px solid #e0d8d8;
+	padding: 20px 0px;
+ }
+ .wcl-controll label{
+ 	width: 30%;
+    float: left;
+    margin-left: 30px;
+    font-weight: 600;
+ }
+
+ .wcl-controll .wcl-text{
+	width: 50%;
+	height: 40px;
+ }
+  .wcl-controll span{
+	font-size: 14px;
+	margin: 20px;
+  }
+  .wcl-controll .wcl-color{
+	width: 100px;
+	height: 40px;
+ }
+ .wcl-submit{
+	width: 60%;
+	float: left;
+	margin: 20px;
+ }
+
+ .wp-picker-container .wp-color-result.button {
+    height: 40px!important;
+    margin: 0px!important;
+    padding: 0px!important;
+    font-size: 11px!important;
+    width: 40%!important;
+}
+.wp-picker-container{
+	width: 40%;
+    float: left;
+}
+.wcl-controll span {
+    font-size: 14px;
+    margin: 0px;
+    display: none!important;
+}
